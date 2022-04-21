@@ -12,10 +12,10 @@ public class gcsjms {
 }
 
     interface  Factory {
-public Product creatProduct();
+ Product creatProduct();
     }
     interface Product{
-        public void info();
+         void info();
     }
     class FactoryA implements Factory{
         @Override
