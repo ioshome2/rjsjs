@@ -8,7 +8,6 @@ public class gcsjms {
     Product productB = factoryB.creatProduct();
     productB.info();
 
-
     }
 }
 
